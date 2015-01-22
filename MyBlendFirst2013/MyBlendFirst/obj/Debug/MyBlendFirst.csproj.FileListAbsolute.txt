@@ -1,0 +1,16 @@
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\bin\Debug\MyBlendFirst.exe.config
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\bin\Debug\MyBlendFirst.exe
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\bin\Debug\MyBlendFirst.pdb
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MainWindow.baml
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MainWindow.g.cs
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\App.g.cs
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MyBlendFirst_MarkupCompile.cache
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MyBlendFirst.g.resources
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MyBlendFirst.Properties.Resources.resources
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MyBlendFirst.csproj.GenerateResource.Cache
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MyBlendFirst.exe
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MyBlendFirst.pdb
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\UserControl1.baml
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\UserControl1.g.cs
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Carsten\Documents\Visual Studio 2013\Projects\MyBlendFirst\MyBlendFirst\obj\Debug\MyBlendFirst_MarkupCompile.lref
