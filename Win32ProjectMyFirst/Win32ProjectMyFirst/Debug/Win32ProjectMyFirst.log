@@ -1,0 +1,22 @@
+﻿Build started 02-10-2013 15:58:07.
+     1>Project "C:\Users\Carsten\documents\visual studio 2012\Projects\Win32ProjectMyFirst\Win32ProjectMyFirst\Win32ProjectMyFirst.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(77): error C2039: 'button1_Click' : is not a member of 'Win32ProjectMyFirst::MyForm'
+                 c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(15) : see declaration of 'Win32ProjectMyFirst::MyForm'
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(77): error C2065: 'button1_Click' : undeclared identifier
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(77): error C3350: 'System::EventHandler' : a delegate constructor expects 2 argument(s)
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(85): error C2039: 'textBox1_TextChanged' : is not a member of 'Win32ProjectMyFirst::MyForm'
+                 c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(15) : see declaration of 'Win32ProjectMyFirst::MyForm'
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(85): error C2065: 'textBox1_TextChanged' : undeclared identifier
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(85): error C3350: 'System::EventHandler' : a delegate constructor expects 2 argument(s)
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(98): error C2039: 'MyForm_MouseDoubleClick' : is not a member of 'Win32ProjectMyFirst::MyForm'
+                 c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(15) : see declaration of 'Win32ProjectMyFirst::MyForm'
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(98): error C2065: 'MyForm_MouseDoubleClick' : undeclared identifier
+     1>c:\users\carsten\documents\visual studio 2012\projects\win32projectmyfirst\win32projectmyfirst\MyForm.h(98): error C3350: 'System::Windows::Forms::MouseEventHandler' : a delegate constructor expects 2 argument(s)
+     1>Done Building Project "C:\Users\Carsten\documents\visual studio 2012\Projects\Win32ProjectMyFirst\Win32ProjectMyFirst\Win32ProjectMyFirst.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.51
